@@ -55,7 +55,3 @@ TimeBoxing이론을 활용하여 하루계획을 스케쥴링하는 어플리케
 |[김민우](https://github.com/SP3cTRum-GH)|[정준수](https://github.com/kuper0201)|[조성환](https://github.com/0soi0)|
 |:---:|:---:|:---:|
 |CalendarView,UX/UI설계|HomeView,개발총괄|HistoryView,DB설계|
-
-
-### TODO
-- 위젯구현
